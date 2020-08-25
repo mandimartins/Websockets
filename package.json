@@ -1,0 +1,23 @@
+{
+  "name": "Websockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WebsocketServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandimartins/Websockets.git"
+  },
+  "keywords": [],
+  "author": "Amanda Martins <mandi.martins00@gmail.com> (https://github.com/mandimartins)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mandimartins/Websockets/issues"
+  },
+  "homepage": "https://github.com/mandimartins/Websockets#readme",
+  "devDependencies": {
+    "ws": "^7.3.1"
+  }
+}
